@@ -1,6 +1,11 @@
 # qr_scanner
 
-A new Flutter project.
+Mobile app with flutter that generates and scans QR codes.
+
+## Packages 
+importe the following packages :
+- qr_flutter : from https://pub.dev/packages/qr_flutter
+- qr_code_scanner : from https://pub.dev/packages/qr_code_scanner
 
 ## Getting Started
 
